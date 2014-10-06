@@ -2,17 +2,169 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/09/29/next-meeting-103-flaming-pumpking-edition/</loc>
+    
+    <lastmod>2014-09-29T10:29:49+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/09/05/next-meeting-95-null-edition/</loc>
+    
+    <lastmod>2014-09-05T14:24:52+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/07/24/next-meeting-defcon22/</loc>
+    
+    <lastmod>2014-07-24T14:10:09+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/06/05/next-meeting-66-winter-housing-edition/</loc>
+    
+    <lastmod>2014-06-05T16:52:08+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/04/28/next-meeting-52-brwny-edition/</loc>
+    
+    <lastmod>2014-04-28T07:00:09+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/03/22/april-meeting-cancelled-see-you-at-bsidesroc/</loc>
+    
+    <lastmod>2014-03-22T12:04:15+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/02/27/next-meeting-37-bsidesroc-2014-edition/</loc>
+    
+    <lastmod>2014-02-27T07:00:05+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2014/01/23/next-meeting-27-pug-horse-edition/</loc>
+    
+    <lastmod>2014-01-23T16:12:06+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/12/26/next-meeting-13-dogecoin-edition/</loc>
+    
+    <lastmod>2013-12-26T15:07:15+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/12/01/next-meeting-126-satanic-santa-edition/</loc>
+    
+    <lastmod>2013-12-01T09:47:30+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/10/29/next-meeting-111-malicious-advice-mallard-edition/</loc>
+    
+    <lastmod>2013-10-29T12:24:50+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/10/03/next-meeting-104-what-does-the-fox-say-edition/</loc>
+    
+    <lastmod>2013-10-03T21:15:27+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/17/zapier/</loc>
+    
+    <lastmod>2013-09-17T10:07:47+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/17/acf_zapier/</loc>
+    
+    <lastmod>2013-09-17T09:42:57+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/10/home/</loc>
+    
+    <lastmod>2013-09-10T16:14:35+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/10/34/</loc>
+    
+    <lastmod>2013-09-10T16:14:35+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/10/33/</loc>
+    
+    <lastmod>2013-09-10T16:14:35+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/10/32/</loc>
+    
+    <lastmod>2013-09-10T16:14:35+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://Rochester2600.github.io/blog/2013/09/10/next-meeting-96/</loc>
+    
+    <lastmod>2013-09-10T13:44:33+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://Rochester2600.github.io/</loc>
-    <lastmod>2014-10-06T23:06:29+00:00</lastmod>
+    <lastmod>2014-10-06T23:09:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://Rochester2600.github.io/blog/archives/</loc>
-    <lastmod>2014-10-06T23:06:29+00:00</lastmod>
+    <lastmod>2014-10-06T23:09:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
