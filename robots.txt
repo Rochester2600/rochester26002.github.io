@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Rochester2600.github.io/sitemap.xml 
+Sitemap: http://www.rochester2600.com/sitemap.xml 
