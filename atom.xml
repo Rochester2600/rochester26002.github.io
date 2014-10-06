@@ -4,7 +4,7 @@
   <title><![CDATA[Rochester 2600]]></title>
   <link href="http://www.rochester2600.com/atom.xml" rel="self"/>
   <link href="http://www.rochester2600.com/"/>
-  <updated>2014-10-06T23:12:47+00:00</updated>
+  <updated>2014-10-06T23:20:33+00:00</updated>
   <id>http://www.rochester2600.com/</id>
   <author>
     <name><![CDATA[AntiTree]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.rochester2600.com/blog/2014/09/29/next-meeting-103-flaming-pumpking-edition/"/>
     <updated>2014-09-29T10:29:49+00:00</updated>
     <id>http://www.rochester2600.com/blog/2014/09/29/next-meeting-103-flaming-pumpking-edition</id>
-    <content type="html"><![CDATA[<p><a href="http://rochester2600.com/wp-content/uploads/2014/09/2600_pumpkin.png"><img class="aligncenter size-full wp-image-151" alt="2600_pumpkin" src="http://rochester2600.com/wp-content/uploads/2014/09/2600_pumpkin.png" width="449" height="420" /></a></p>
+    <content type="html"><![CDATA[<p><a href="http://rochester2600.com/wp-content/uploads/2014/09/2600_pumpkin.png"><img alt="2600_pumpkin" src="http://rochester2600.com/wp-content/uploads/2014/09/2600_pumpkin.png" width="449" height="420" /></a></p>
 
 
 <p>Join us this Friday for another 2600 meeting. We will be learning about thermite in a Halloweeny manner. None of the presentations will be related to what I&#8217;m talking about right now. Why are you still reading this?</p>
@@ -126,7 +126,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[April Meeting Cancelled - See You at BSidesROC!]]></title>
+    <title type="html"><![CDATA[April Meeting Cancelled - See you at BSidesROC!]]></title>
     <link href="http://www.rochester2600.com/blog/2014/03/22/april-meeting-cancelled-see-you-at-bsidesroc/"/>
     <updated>2014-03-22T12:04:15+00:00</updated>
     <id>http://www.rochester2600.com/blog/2014/03/22/april-meeting-cancelled-see-you-at-bsidesroc</id>
@@ -266,7 +266,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Next Meeting: 10/4 What Does the Fox Say Edition]]></title>
+    <title type="html"><![CDATA[Next Meeting: 10/4 What Does The Fox Say Edition]]></title>
     <link href="http://www.rochester2600.com/blog/2013/10/03/next-meeting-104-what-does-the-fox-say-edition/"/>
     <updated>2013-10-03T21:15:27+00:00</updated>
     <id>http://www.rochester2600.com/blog/2013/10/03/next-meeting-104-what-does-the-fox-say-edition</id>
@@ -288,7 +288,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Zapier]]></title>
+    <title type="html"><![CDATA[zapier]]></title>
     <link href="http://www.rochester2600.com/blog/2013/09/17/zapier/"/>
     <updated>2013-09-17T10:07:47+00:00</updated>
     <id>http://www.rochester2600.com/blog/2013/09/17/zapier</id>
