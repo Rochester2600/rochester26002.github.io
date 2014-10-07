@@ -4,7 +4,7 @@
   <title><![CDATA[Rochester 2600]]></title>
   <link href="http://www.rochester2600.com/atom.xml" rel="self"/>
   <link href="http://www.rochester2600.com/"/>
-  <updated>2014-10-07T00:13:32+00:00</updated>
+  <updated>2014-10-07T12:56:21+00:00</updated>
   <id>http://www.rochester2600.com/</id>
   <author>
     <name><![CDATA[AntiTree]]></name>
@@ -310,33 +310,6 @@
     <link href="http://www.rochester2600.com/blog/2013/09/10/home/"/>
     <updated>2013-09-10T16:14:35+00:00</updated>
     <id>http://www.rochester2600.com/blog/2013/09/10/home</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[34]]></title>
-    <link href="http://www.rochester2600.com/blog/2013/09/10/34/"/>
-    <updated>2013-09-10T16:14:35+00:00</updated>
-    <id>http://www.rochester2600.com/blog/2013/09/10/34</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[33]]></title>
-    <link href="http://www.rochester2600.com/blog/2013/09/10/33/"/>
-    <updated>2013-09-10T16:14:35+00:00</updated>
-    <id>http://www.rochester2600.com/blog/2013/09/10/33</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[32]]></title>
-    <link href="http://www.rochester2600.com/blog/2013/09/10/32/"/>
-    <updated>2013-09-10T16:14:35+00:00</updated>
-    <id>http://www.rochester2600.com/blog/2013/09/10/32</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
