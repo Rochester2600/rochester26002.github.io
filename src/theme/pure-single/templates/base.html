@@ -47,9 +47,11 @@
                             {% endif %}
                             <h1 class="brand-main"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
                             <p class="tagline">{{ TAGLINE }}</p>
-                            {% for title, link in MENUITEMS %}
-                                <p class="links"><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></p>
+			    <p class="links">
+			    {% for p in pages %}
+                                <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
                             {% endfor %}
+				</p>
                                 <p class="social">
                             {% for title, link in SOCIAL %}
                                     <a href="{{ link }}">
