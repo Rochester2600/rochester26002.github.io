@@ -20,4 +20,4 @@ Presentations this month:
 
  
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/12/2600-pager.png
+   .. image:: images/2600-pager.png

@@ -17,6 +17,6 @@ Presentations include:
 -  Alex: Nothing
 -  G13: Nothing
 -  JustBill: Nothing\ `
-    ![jimmi](http://rochester2600.com/wp-content/uploads/2014/11/2600-jimmi-jesus.png)`__
+    ![jimmi](images/2600-jimmi-jesus.png)`__
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/11/2600-jimmi-jesus.png
+   .. image:: images/2600-jimmi-jesus.png

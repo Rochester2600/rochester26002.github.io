@@ -9,4 +9,4 @@ Next Meeting: 8/1 DEFCON Edition
 
  
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/07/2600_defcon22.png
+   .. image:: images/2600_defcon22.png

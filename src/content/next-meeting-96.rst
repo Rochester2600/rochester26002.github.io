@@ -25,4 +25,4 @@ Here are the rules:
 
 Meetings begin at 7pm and are held at Interlock Rochester
 
-   :target: http://rochester2600.com/wp-content/uploads/2013/09/2600_interview.jpg
+   .. image:: images/2600_interview.jpg

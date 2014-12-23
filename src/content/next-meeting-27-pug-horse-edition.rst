@@ -19,4 +19,4 @@ Presentations include:
 -  G13: Something I finally got working - Giraffe-droid
 -  JustBill: State of the state of IPv6 (and ecoin trading)
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/01/2600_pughorse.png
+   .. image:: images/2600_pughorse.png

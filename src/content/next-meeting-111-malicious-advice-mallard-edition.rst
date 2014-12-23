@@ -17,4 +17,4 @@ Presentations:
 -  JustBill - ESXi, Warzones, and software defined terrible
 -  OTHER: TBA
 
-   :target: http://rochester2600.com/wp-content/uploads/2013/10/2600_mallard.png
+   .. image:: images/2600_mallard.png

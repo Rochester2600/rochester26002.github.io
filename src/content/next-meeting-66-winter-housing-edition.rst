@@ -19,4 +19,4 @@ forts, and other Snow Dens.
    "look-what-I-can-do's"
 -  Alex: Puppet
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/06/2600_igloo.png
+   .. image:: images/2600_igloo.png

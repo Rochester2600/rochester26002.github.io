@@ -18,4 +18,4 @@ this?
 -  Cowboy Joe: "Something to present"
 -  G13: Teensy
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/09/2600_pumpkin.png
+   .. image:: images/2600_pumpkin.png

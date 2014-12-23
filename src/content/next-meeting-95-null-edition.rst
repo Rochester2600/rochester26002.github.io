@@ -15,4 +15,4 @@ Presenters:
 -  g13: hax hax hax
 -  algorythm: finale
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/09/2600_null.png
+   .. image:: images/2600_null.png

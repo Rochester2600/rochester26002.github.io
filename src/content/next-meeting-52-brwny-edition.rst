@@ -16,4 +16,4 @@ consist of PWNy based talks including:
 -  Algorythm: Introduction to MLP
 -  CowboiJoe: Social Engineering for the PWNies
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/04/2600_brwny.png
+   .. image:: images/2600_brwny.png

@@ -20,4 +20,4 @@ Talks:
 
  
 
-   :target: http://rochester2600.com/wp-content/uploads/2013/12/2600_santa.png
+   .. image:: images/2600_santa.png

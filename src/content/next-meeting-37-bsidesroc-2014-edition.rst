@@ -19,4 +19,4 @@ Presentations this month include:
 -  AntiTree: To be decided..
 -  JustBill: IPv6, NAT, and the answers to to worlds questions
 
-   :target: http://rochester2600.com/wp-content/uploads/2014/02/2600_bsidesroc20141.png
+   .. image:: images/2600_bsidesroc20141.png
