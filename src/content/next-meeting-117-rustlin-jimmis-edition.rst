@@ -17,6 +17,5 @@ Presentations include:
 -  Alex: Nothing
 -  G13: Nothing
 -  JustBill: Nothing\ `
-    ![jimmi](images/2600-jimmi-jesus.png)`__
 
    .. image:: images/2600-jimmi-jesus.png
