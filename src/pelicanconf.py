@@ -37,6 +37,7 @@ LINKS = (('Interlock Rochester', 'http://www.interlockroc.org/'),
 SOCIAL = (
 	('twitter-square', 'https://twitter.com/rochester2600'),
 	('google-plus-square', 'https://plus.google.com/+Rochester2600'),
+	('github-square', 'https://github.com/Rochester2600'),
 	
 )
 

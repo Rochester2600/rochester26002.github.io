@@ -11,6 +11,8 @@ Rochester2600.com public website
 * build html
 * push your changes
 
+NOTE: Use the "sidebarimage" to control the image that loads for your post. 
+
 ## Example Post
 ```
 title: Meeting 1/2/2015 wtf...
@@ -28,3 +30,6 @@ Saint Nick costume.
 * G13: Stuff I do at work
 ```
 
+## Links
+[Pure-single Theme and setting](https://github.com/PurePelicanTheme/pure-single)
+[Fontawesome Icons](http://fontawesome.io/icons/)
