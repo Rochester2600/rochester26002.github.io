@@ -7,11 +7,12 @@ SITENAME = u'Rochester 2600'
 SITEURL = 'http://rochester2600.github.io'
 SITESUBTITLE = "Hacking, Security, Technology meetup group"
 
-THEME = 'pure-single'
+THEME = './theme/pure-single'
 
 PATH = 'content'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 COVER_IMG_URL = "/images/2600bg.png"
 FAVICON_URL = "/images/favicon.png"
 
