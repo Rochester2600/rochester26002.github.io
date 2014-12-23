@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Rochester 2600</title><link href="http://rochester2600.github.io/" rel="alternate"></link><link href="http://rochester2600.github.io/feeds/meeting.atom.xml" rel="self"></link><id>http://rochester2600.github.io/</id><updated>2013-12-26T15:07:00-05:00</updated><entry><title>Next Meeting: 1/3 Dogecoin Edition</title><link href="http://rochester2600.github.io/next-meeting-13-dogecoin-edition.html" rel="alternate"></link><updated>2013-12-26T15:07:00-05:00</updated><author><name>2600admin</name></author><id>tag:rochester2600.github.io,2013-12-26:next-meeting-13-dogecoin-edition.html</id><summary type="html">&lt;p&gt;2600. Where everything's made up an the alternative crypto-currency
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rochester 2600</title><link href="http://rochester2600.github.io/" rel="alternate"></link><link href="http://rochester2600.github.io/feeds/meeting.atom.xml" rel="self"></link><id>http://rochester2600.github.io/</id><updated>2013-12-26T15:07:00-05:00</updated><entry><title>Next Meeting: 1/3 Dogecoin Edition</title><link href="http://rochester2600.github.io/next-meeting-13-dogecoin-edition.html" rel="alternate"></link><updated>2013-12-26T15:07:00-05:00</updated><author><name>2600admin</name></author><id>tag:rochester2600.github.io,2013-12-26:next-meeting-13-dogecoin-edition.html</id><summary type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;2600. Where everything's made up an the alternative crypto-currency
 doesn't matter. This month we will be cashing out our trust funds,
 401K's, retirement, and savings account to invest into the latest
 hottest cryptocurrency - Dogecoine. We will be doing an assortment of
@@ -16,8 +16,8 @@ alt-coins.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p class="first"&gt;Joe: Evading Anti-Virus detection... so you can steal Dogecoins.&lt;/p&gt;
 &lt;table class="docutils field-list" frame="void" rules="none"&gt;
-&lt;col class="field-name" /&gt;
-&lt;col class="field-body" /&gt;
+&lt;col class="field-name"&gt;&lt;/col&gt;
+&lt;col class="field-body"&gt;&lt;/col&gt;
 &lt;tbody valign="top"&gt;
 &lt;tr class="field"&gt;&lt;th class="field-name"&gt;target:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;a class="reference external" href="http://rochester2600.com/wp-content/uploads/2013/12/2600_dogecoin.png"&gt;http://rochester2600.com/wp-content/uploads/2013/12/2600_dogecoin.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -25,4 +25,4 @@ alt-coins.&lt;/p&gt;
 &lt;/table&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</summary></entry></feed>
+&lt;/body&gt;&lt;/html&gt;</summary></entry></feed>
