@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'antitree'
 SITENAME = u'Rochester 2600'
-SITEURL = 'http://rochester2600.github.io'
+SITEURL = 'http://www.rochester2600.com'
 SITESUBTITLE = "Hacking, Security, Technology meetup group"
 
 THEME = './theme/pure-single'
@@ -15,6 +15,7 @@ STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 COVER_IMG_URL = "/images/2600bg.png"
 FAVICON_URL = "/images/favicon.png"
+SUMMARY_MAX_LENGTH = None
 
 
 TIMEZONE = 'America/New_York'
@@ -22,7 +23,7 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = None 
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
