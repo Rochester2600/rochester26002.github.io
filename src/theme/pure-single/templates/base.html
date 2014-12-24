@@ -48,8 +48,9 @@
                             <h1 class="brand-main"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
                             <p class="tagline">{{ TAGLINE }}</p>
 			    <p class="links">
+				<a href="{{ SITEURL }}/">Home</a>
 			    {% for p in pages %}
-                                <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+                                <a href="{{ SITEURL }}/{{ p.url }}">| {{ p.title }}</a>
                             {% endfor %}
 				</p>
                                 <p class="social">
