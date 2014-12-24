@@ -11,7 +11,7 @@ THEME = './theme/pure-single'
 
 PATH = 'content'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/links.html', 'extra/2600.md']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 COVER_IMG_URL = "/images/2600bg.png"
 FAVICON_URL = "/images/favicon.png"
