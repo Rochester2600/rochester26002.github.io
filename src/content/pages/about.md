@@ -11,11 +11,27 @@ Meetings occur the first Friday of every month and consist of presentations from
 Alcohol is sometimes 
 consumed, and the presentations may be adult in nature. Be advised if you might be offended by this.
 
+## Where
+
+All meetings occur at Interlock Rochester which is Door #7 of the Hungerford building at 1115 E. Main St, Rochester. 
+
+Parking is available all around the Hungerford Building. The building is filled with artists and designers who sometimes hold events. If you're having trouble finding parking, here are some suggestions:
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=zhjFGCExlwE0.kAJBkK99q9Xk" width="640" height="480"></iframe>
 
 ## Who attends meeting
 
-Some of the people that attend have careers in infosec, some are developers that are interested in what's happening in security. Others are amateurs that think it's fun to learn about technology from a security context. Alcohol is sometimes consume, and the presentations may be adult in nature. Be advised if you might be offended by this. 
+Some of the people that attend have careers in infosec, some are developers that are interested in what's happening in security. Others are amateurs that think it's fun to learn about technology from a security context. 
 
 ## Should I bring a laptop
 
 Yes. We offer free wifi through Interlock. Some of the presentations may be hands-on so having a system is a plus.  
+
+## What is Interlock
+
+Interlock Rochester is a hackerspace that was started to provide a space for groups like 2600 to present and hangout with like-minded folk. 2600 is a group that is hosted at Interlock and some Interlock members attend 2600 meetings, but the groups are mutually exclusive. 
+
+## What is BSidesROC
+
+[BSidesROC](http://www.bsidesroc.com) or Security B-Sides Rochester, is a yearly hackercon that the folks at 2600 and the local hacker community throw every year. It is always free and open to the public and aims to share knowledge about security and the hacker community. Check out their website for more information or come to a 2600 meeting and ask. 
+
