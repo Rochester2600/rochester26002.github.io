@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(142, 142, 214);
+    color: rgb(255, 0, 0);
 }
 a:hover,
 a:focus {
@@ -115,7 +115,7 @@ pre {
     text-transform: uppercase;
     text-decoration: none;
     margin-left: 15px;
-    font-size: 25px;
+    font-size: 30px;
     color: #fff;
     border-bottom: 1px solid rgba(255,255,255,0.3);
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
@@ -141,7 +141,7 @@ pre {
     color: #fff;
 }
 
-.links a {
+.links {
     font-size: 15px;
     padding-left: 15px;
     font-family: sans-serif;
@@ -149,6 +149,17 @@ pre {
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     text-decoration: none;
     color: #fff;
+    word-spacing: 5px;
+}
+
+.links li {
+    display: inline;
+}
+
+.links a:hover, 
+.links a:focus {
+    color: #efefefe;
+
 }
 
 .content-subhead {
