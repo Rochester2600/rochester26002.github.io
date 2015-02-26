@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/../
 L2PCMD=$(BASEDIR)/link2ppt/l2ppt.py
 L2CREDS=$(BASEDIR)/creds
-PRESENTDIR=$(OUTPUTDIR)/present
+PRESENTDIR=$(OUTPUTDIR)present
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
