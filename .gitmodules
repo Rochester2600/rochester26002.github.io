@@ -3,4 +3,4 @@
 	url = git@github.com:antitree/link2ppt.git
 [submodule "src/link2ppt"]
 	path = src/link2ppt
-	url = git@github.com:antitree/link2ppt.git
+	url = https://github.com/antitree/link2ppt.git
