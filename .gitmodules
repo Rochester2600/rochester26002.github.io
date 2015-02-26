@@ -1,0 +1,6 @@
+[submodule "link2ppt"]
+	path = link2ppt
+	url = git@github.com:antitree/link2ppt.git
+[submodule "src/link2ppt"]
+	path = src/link2ppt
+	url = git@github.com:antitree/link2ppt.git
