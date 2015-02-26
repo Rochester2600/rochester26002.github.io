@@ -5,6 +5,9 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/../
+L2PCMD=$(BASEDIR)/link2ppt/l2ppt.py
+L2CREDS=$(BASEDIR)/creds
+PRESENTDIR=$(OUTPUTDIR)/present
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -56,6 +59,7 @@ help:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PY) $(L2PCMD) -i $(L2CREDS) -r $(PRESENTDIR)/2600.md
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
