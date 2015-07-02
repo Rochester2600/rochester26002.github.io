@@ -4,11 +4,29 @@
 # site generator
 
 import random
+from datetime import datetime, timedelta
+
+PAGETEMPLATE = '''Title: Meeting %s %s Edition
+Date: %s
+category: meetings
+author: antitree
+sidebarimage: images/2600_%s.png
+
+%s
+'''
 
 with open('nouns.list') as f:
     NOUNS = f.readlines()
 
 def main():
+    while True:
+     try:
+        dateinput = str(raw_input('date'))
+        nextmeeting = datetime.strptime(dateinput, '%m/%d/%Y')
+        break
+     except ValueError:
+        print "Incorrect format. Try again"
+
     subject = raw_input("Subject for the meeting: [Choose N to randomize] ")
     examples = ["","",""]
     print("Enter examples of things related to %s." % subject)
@@ -49,7 +67,25 @@ def main():
     page = [invite, title, night_desc, do_desc, subject_desc, example_desc, talk_desc]
     #print(page)
     page = " ".join(page)
-    print page
+
+    page_source = PAGETEMPLATE % (
+        nextmeeting.strftime('%m/%d'), 
+        subject.title(),
+        nextmeeting - timedelta(days=6),
+        subject.lower(),
+        page)
+
+
+    print page_source
+    confirm = raw_input("Is the above information correct?[Y/N] ")
+    if confirm.lower() == "y":
+        try:
+            with open("content/%s" % nextmeeting.strftime("%m-%d-%Y.md"), 'w') as blog:
+                blog.writelines(page_source)
+            print("Ok I did it")
+
+        except Exception as err:
+            print(err)
 
 
 def random_subject():
