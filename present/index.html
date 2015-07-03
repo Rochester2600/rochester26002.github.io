@@ -8,7 +8,20 @@
       @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-      body { font-family: 'Droid Serif'; }
+@font-face{
+	font-family:SansCyberSans;
+	src:url(https://github.com/antitree/SansBullshitCyberSans/raw/master/SansCyberSans.ttf);
+	font-weight:normal
+}
+
+
+      body { 
+		font-family:SansCyberSans;
+	font-variant-ligatures:common-ligatures;
+	-webkit-font-feature-settings:"liga" 1, "dlig" 1;
+	-moz-font-feature-settings:"liga" 1, "dlig" 1;
+	-ms-font-feature-settings:"liga" 1, "dlig" 1;font-feature-settings:"liga" 1, "dlig" 1;
+}
       h1, h2, h3 {
         font-family: 'Yanone Kaffeesatz';
         font-weight: normal;
@@ -23,6 +36,7 @@
 	font-size: 15px;
 	}
     </style>
+    
     </head>
    <body>
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
