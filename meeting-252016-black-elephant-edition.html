@@ -8,21 +8,28 @@
         <link rel="alternate"  href="http://www.rochester2600.com/feeds/all.atom.xml" type="application/atom+xml" title="Rochester 2600 Full Atom Feed"/>
         <link rel="alternate" href="http://www.rochester2600.com/feeds/latest.atom.xml" type="application/atom+xml" title="Rochester 2600 Atom Feed"/>
 
-        <title>Rochester 2600 - Authors</title>
+        <title>Meeting 2/5/2016: Black Elephant Edition // Rochester 2600 // </title>
 
     <link href="/images/favicon.png" rel="icon">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="./theme/css/pure.css">
+    <link rel="stylesheet" href="./theme/css/pygments.css">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
 </head>
 
 <body>
     <div class="pure-g-r" id="layout">
         <div class="sidebar pure-u">
-            <div class="cover-img" style="background-image: url('/images/2600bg.png')">
+            <div class="cover-img" style="background-image: url('images/2600_black_elephant.png')">
                 <div class="cover-body">
                     <header class="header">
                         <hgroup>
@@ -50,11 +57,29 @@
                 </div>
             </div>
         </div>
-    <h1>Authors on Rochester 2600</h1>
-
-    <ul>        <li><a href="./author/2600admin.html">2600admin</a> (14)</li>
-        <li><a href="./author/antitree.html">antitree</a> (14)</li>
-    </ul>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Meeting 2/5/2016: Black Elephant Edition</h1>
+                        <p class="post-meta">
+                            // under                         </p>
+                </header>
+            </section>
+            <p>Black Elephant is our monthly holiday party where attendees come in an exchange the most horrible gifts possible. Please note this is not for the faint of heart. We will also have our monthly presentations along-side the gift exchange. Exchange is optional but again, be warned. </p>
+<p>Presentations:
+<em> G13: Sniffing your butt
+</em> AntiTree: Shamir's Secrets
+<em> Algorythm: Nothing as always
+</em> All: Black Elephant Gift Sharing</p>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; antitree &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
     </div>
     <script>
         var $top = $('.go-top');
