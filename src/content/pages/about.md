@@ -35,3 +35,9 @@ Interlock Rochester is a hackerspace that was started to provide a space for gro
 
 [BSidesROC](http://www.bsidesroc.com) or Security B-Sides Rochester, is a yearly hackercon that the folks at 2600 and the local hacker community throw every year. It is always free and open to the public and aims to share knowledge about security and the hacker community. Check out their website for more information or come to a 2600 meeting and ask. 
 
+## Contact
+
+* [@roc2600](https://twitter.com/roc2600)
+* [Hackerspace Meetup](http://www.meetup.com/Interlock-Rochester-Hackerspace) 
+* [Mailing List](https://groups.google.com/forum/#!forum/rochester2600)
+* IRC: Freenode #interlock

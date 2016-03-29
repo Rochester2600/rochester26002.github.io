@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Rochester 2600</title><link href="http://www.rochester2600.com/" rel="alternate"></link><link href="http://www.rochester2600.com/feeds/all.atom.xml" rel="self"></link><id>http://www.rochester2600.com/</id><updated>2016-02-09T08:00:00-05:00</updated><entry><title>Meeting 3/4/2016: Unknown Edition</title><link href="http://www.rochester2600.com/meeting-342016-unknown-edition.html" rel="alternate"></link><updated>2016-02-09T08:00:00-05:00</updated><author><name>antitree</name></author><id>tag:www.rochester2600.com,2016-02-09:meeting-342016-unknown-edition.html</id><summary type="html">&lt;p&gt;There will be a meeting on 3/4. Of what, we do not know. Who will be there we do not know. Will there be a presentation? Unknown. &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rochester 2600</title><link href="http://www.rochester2600.com/" rel="alternate"></link><link href="http://www.rochester2600.com/feeds/all.atom.xml" rel="self"></link><id>http://www.rochester2600.com/</id><updated>2016-03-10T08:00:00-05:00</updated><entry><title>Meeting 4/1/2016: BSidesROC 2016 Edition</title><link href="http://www.rochester2600.com/meeting-412016-bsidesroc-2016-edition.html" rel="alternate"></link><updated>2016-03-10T08:00:00-05:00</updated><author><name>antitree</name></author><id>tag:www.rochester2600.com,2016-03-10:meeting-412016-bsidesroc-2016-edition.html</id><summary type="html">&lt;p&gt;Join us for the last 2600 meeting before BSidesROC. We most likely will be 
+discussing the last details and working on the CTF 
+challenges. Come out and visit if you'd like to see
+how the BSidesROC sausage is made. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;antitree: This month in security&lt;/li&gt;
+&lt;li&gt;pee: Introduction to Nitrokey smart cards&lt;/li&gt;
+&lt;li&gt;antitree: introduction to cryptoparties&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Meeting 3/4/2016: Unknown Edition</title><link href="http://www.rochester2600.com/meeting-342016-unknown-edition.html" rel="alternate"></link><updated>2016-02-09T08:00:00-05:00</updated><author><name>antitree</name></author><id>tag:www.rochester2600.com,2016-02-09:meeting-342016-unknown-edition.html</id><summary type="html">&lt;p&gt;There will be a meeting on 3/4. Of what, we do not know. Who will be there we do not know. Will there be a presentation? Unknown. &lt;/p&gt;
 &lt;p&gt;Presentations:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;TBD&lt;/li&gt;
