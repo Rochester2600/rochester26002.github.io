@@ -1,6 +1,6 @@
 Title: Cryptoparty
 
-![Cryptoparty]({attach}images/cryptoparty.jpg)
+![Cryptoparty](/images/cryptoparty.jpg)
 
 ## What is a cryptoparty 
 
@@ -18,6 +18,9 @@ What: Agenda:
 * Cryptoparty introduction
 * Workshop: GPG/OpenPGP HowTo and keysigning party
 * Presentation: Next Generation Security Operating Systems
+
+![Cryptoparty May](/images/2600_cryptoparty.png)
+Print out this [Cryptoparty Flyer](/images/2600_cryptoparty2.pdf)
 
 
  
