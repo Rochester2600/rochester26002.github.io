@@ -1,6 +1,6 @@
 Title: Cryptoparty
 
-![Cryptoparty](/images/cryptoparty.jpg)
+![Cryptoparty](/images/cryptoparty.png)
 
 ## What is a cryptoparty 
 
