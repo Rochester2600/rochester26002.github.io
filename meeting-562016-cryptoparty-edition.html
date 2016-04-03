@@ -8,21 +8,28 @@
         <link rel="alternate"  href="http://www.rochester2600.com/feeds/all.atom.xml" type="application/atom+xml" title="Rochester 2600 Full Atom Feed"/>
         <link rel="alternate" href="http://www.rochester2600.com/feeds/latest.atom.xml" type="application/atom+xml" title="Rochester 2600 Atom Feed"/>
 
-        <title>Rochester 2600 - Authors</title>
+        <title>Meeting 5/6/2016: Cryptoparty Edition // Rochester 2600 // </title>
 
     <link href="/images/favicon.png" rel="icon">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="./theme/css/pure.css">
+    <link rel="stylesheet" href="./theme/css/pygments.css">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
 </head>
 
 <body>
     <div class="pure-g-r" id="layout">
         <div class="sidebar pure-u">
-            <div class="cover-img" style="background-image: url('/images/2600bg.png')">
+            <div class="cover-img" style="background-image: url('images/2600_cryptoparty.png')">
                 <div class="cover-body">
                     <header class="header">
                         <hgroup>
@@ -51,11 +58,41 @@
                 </div>
             </div>
         </div>
-    <h1>Authors on Rochester 2600</h1>
-
-    <ul>        <li><a href="./author/2600admin.html">2600admin</a> (14)</li>
-        <li><a href="./author/antitree.html">antitree</a> (17)</li>
-    </ul>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Meeting 5/6/2016: Cryptoparty Edition</h1>
+                        <p class="post-meta">
+                            // under                         </p>
+                </header>
+            </section>
+            <p>This will be Rochester 2600's first (and maybe only) cryptoparty. A <a href="/pages/cryptoparty.html">Cryptoparty</a> is a hands on workshop that teaches anyone about important security and cryptography tools you can use to protect yourself. There will be a focus this time around on OpenPGP/GPG and the new operating systems QubesOS and SubgraphOS. </p>
+<p>What you need to participate:</p>
+<ul>
+<li>Laptop ideally with Linux installed on it</li>
+<li>USB drive to copy keys between systems</li>
+</ul>
+<p>What you need to attend:</p>
+<ul>
+<li>Nothing. You can just lurk or ask questions but participation is key. </li>
+</ul>
+<p>For more information see the <a href="/pages/cryptoparty.html">Cryptoparty</a> page.</p>
+<p><strong>NOTE: Doors will open at 5:30pm. Please come on time</strong></p>
+<p>Presentations:</p>
+<ul>
+<li>AntiTree: This month in infosec</li>
+<li>Pee &amp; Antitree: SmartCards, Nitrokeys, and how to store them in your butt.</li>
+<li>TheStroudCloud: Deep Dive into Docker</li>
+</ul>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; antitree &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
     </div>
     <script>
         var $top = $('.go-top');

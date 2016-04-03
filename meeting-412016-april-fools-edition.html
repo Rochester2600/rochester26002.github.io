@@ -8,21 +8,28 @@
         <link rel="alternate"  href="http://www.rochester2600.com/feeds/all.atom.xml" type="application/atom+xml" title="Rochester 2600 Full Atom Feed"/>
         <link rel="alternate" href="http://www.rochester2600.com/feeds/latest.atom.xml" type="application/atom+xml" title="Rochester 2600 Atom Feed"/>
 
-        <title>Rochester 2600 - Authors</title>
+        <title>Meeting 4/1/2016: April Fools Edition // Rochester 2600 // </title>
 
     <link href="/images/favicon.png" rel="icon">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="./theme/css/pure.css">
+    <link rel="stylesheet" href="./theme/css/pygments.css">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
 </head>
 
 <body>
     <div class="pure-g-r" id="layout">
         <div class="sidebar pure-u">
-            <div class="cover-img" style="background-image: url('/images/2600bg.png')">
+            <div class="cover-img" style="background-image: url('images/2600_nelson.png')">
                 <div class="cover-body">
                     <header class="header">
                         <hgroup>
@@ -51,11 +58,30 @@
                 </div>
             </div>
         </div>
-    <h1>Authors on Rochester 2600</h1>
-
-    <ul>        <li><a href="./author/2600admin.html">2600admin</a> (14)</li>
-        <li><a href="./author/antitree.html">antitree</a> (17)</li>
-    </ul>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Meeting 4/1/2016: April Fools Edition</h1>
+                        <p class="post-meta">
+                            // under                         </p>
+                </header>
+            </section>
+            <p>There will be a meeting on 4/1. It's not an april fools joke but it is a joke, and it's in April. This will be a hands on introduction to smart cards and OpenPGP along with our standard presentations.  </p>
+<p>Presentations:</p>
+<ul>
+<li>AntiTree: This month in infosec</li>
+<li>Pee &amp; Antitree: SmartCards, Nitrokeys, and how to store them in your butt.</li>
+<li>TheStroudCloud: Deep Dive into Docker</li>
+</ul>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; antitree &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure-single">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
     </div>
     <script>
         var $top = $('.go-top');
