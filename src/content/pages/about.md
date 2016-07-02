@@ -17,7 +17,7 @@ All meetings occur at Interlock Rochester which is Door #7 of the Hungerford bui
 
 Parking is available all around the Hungerford Building. The building is filled with artists and designers who sometimes hold events. If you're having trouble finding parking, here are some suggestions:
 
-<iframe src="https://mapsengine.google.com/map/embed?mid=zhjFGCExlwE0.kAJBkK99q9Xk" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1stLJJCJVxNg_4AVp5MJRi4-ykwI" width="640" height="480"></iframe>
 
 ## Who attends meeting
 
