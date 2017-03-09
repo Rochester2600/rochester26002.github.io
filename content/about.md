@@ -3,6 +3,8 @@ date = "2017-02-02"
 title = "About"
 +++
 
+![Rochester 2600](/images/2600bg.png)
+
 ## Who we are
 
 2600 is a monthly meetup for those interested in information security, hacking, cracking, modding, and other various fun technologies. 2600 is also the organization that puts together [Security B-SidesROC](http://www.bsidesroc.com). 
