@@ -1,6 +1,3 @@
-[submodule "link2ppt"]
-	path = link2ppt
-	url = git@github.com:antitree/link2ppt.git
-[submodule "src/link2ppt"]
-	path = src/link2ppt
-	url = https://github.com/antitree/link2ppt.git
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = git@github.com:comfusion/after-dark.git
