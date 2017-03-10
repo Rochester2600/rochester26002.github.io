@@ -15,7 +15,7 @@ blog = "blog/:slug/"
 
 [params]
 enableRobotsTXT = true # Suggested, enable robots.txt file
-googleAnalytics = "" # Optional, add tracking Id for analytics
+googleAnalytics = "UA-10542864-1" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
