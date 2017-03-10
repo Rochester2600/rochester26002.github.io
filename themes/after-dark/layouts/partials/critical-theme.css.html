@@ -1,0 +1,59 @@
+<style media="screen">
+  @keyframes intro {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .muted {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  main, footer {
+    animation: intro 0.3s both;
+    animation-delay: 0.15s;
+  }
+  :target {
+    color: #ff9800;
+  }
+  /* hack.css overrides and enhancements */
+  .hack li ul {
+    margin: 0;
+  }
+  .main {
+    padding: 20px 10px;
+  }
+  nav a.active {
+    background-color: #ff2e88;
+    color: #fff;
+  }
+  nav a {
+    color: #ff9800;
+  }
+  nav a:hover {
+    color: #fff;
+  }
+  a[target="_blank"]::after {
+    /* svg icon for external links in pop-up window thanks to @Fastidious for the idea */
+    content: " " url("data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" class=\"i-external\" viewBox=\"0 0 32 32\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#ff9800\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"9.38%\"><path d=\"M14 9 L3 9 3 29 23 29 23 18 M18 4 L28 4 28 14 M28 4 L14 18\" /></svg>");
+  }
+  html {
+    font-size: 13px;
+  }
+  .hack pre {
+    font-size: 17px;
+  }
+  article [itemprop="description"] {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  @media screen and (min-width: 768px) {
+    html {
+      font-size: 1em;
+    }
+    .container {
+      max-width: 50rem;
+    }
+  }
+</style>
