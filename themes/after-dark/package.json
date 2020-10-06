@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "hack": "0.7.7",
-    "lazysizes": "^3.0.0-rc4",
+    "lazysizes": "^5.2.2",
     "smoothscroll-polyfill": "^0.3.4"
   },
   "devDependencies": {
